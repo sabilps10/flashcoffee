@@ -1,0 +1,16 @@
+1. Answer : 2, 2, 6, 4, 10, 6, 14, 8
+2. Answer :  It allows you to use state and other React features without writing a class. Hooks are the functions which "hook into" React state and lifecycle features from function components. It does not work inside classes. If the React community embraces the Hooks proposal, it will reduce the number of concepts you need to juggle when writing React applications. Hooks let you always use functions instead of having to constantly switch between functions, classes, higher-order components, and render props.
+3. Answer : a. git clone is a Git command line utility which is used to target an existing repository and create a clone, or copy of the target repository. 
+            b. git pull used to fetch and download content from a remote repository and immediately update the local repository to match that content.
+            c. git add command adds a change in the working directory to the staging area. 
+            d. git commit a snapshot of your repo at a specific point in time.
+            e. git push used to upload local repository content to a remote repository. 
+4. Answer : Git rebase and merge both integrate changes from one branch into another. Where they differ is how it's done. Git rebase moves a feature branch into a master. Git merge adds a new commit, preserving the history.
+5. Answer : S - Single-responsiblity Principle.
+            O - Open-closed Principle.
+            L - Liskov Substitution Principle.
+            I - Interface Segregation Principle.
+            D - Dependency Inversion Principle.
+
+            Implementing SOLID design principles during development will lead to systems that are more maintainable, scalable, testable, and reusable. In the current environment, these principles are used globally by engineers. As a result, to create good code and to use design principles that are competitive while meeting industry standards, it’s essential to utilize these principles.
+
